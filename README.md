@@ -2,6 +2,6 @@
 
 ## Currently Working On
 
-[![Humble Card](https://github-readme-stats.vercel.app/api/pin/?username=locmai&repo=humble)](https://github.com/locmai/humble)
+[![Humble Card](https://github-readme-stats.vercel.app/api/pin/?username=locmai&repo=humble&theme=graywhite)](https://github.com/locmai/humble)
 
-[![Black Ping](https://github-readme-stats.vercel.app/api/pin/?username=locmai&repo=blackping)](https://github.com/locmai/blackping)
+[![Black Ping](https://github-readme-stats.vercel.app/api/pin/?username=locmai&repo=blackping&theme=graywhite)](https://github.com/locmai/blackping)
